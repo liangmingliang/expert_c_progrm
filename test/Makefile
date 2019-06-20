@@ -23,7 +23,6 @@ LIBDIR := \
 	-L$(PROJ_DIR)/lib
 
 LIBS := \
-	-lpthread -lstr_util
 
 CFLAGS += \
 	$(INCDIR)
