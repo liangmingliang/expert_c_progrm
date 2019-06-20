@@ -1,1 +1,3 @@
-exercise in book "expert c programming"
+# book pointers on c
+
+## exercise of chapter 6 
